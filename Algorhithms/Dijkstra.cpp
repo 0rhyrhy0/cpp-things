@@ -3,7 +3,7 @@ using namespace std;
 
 #define NUMBER 6
 #define MAX 2000000000
-// github.dev ????
+
 int a[6][6] = {
 	{0,   2,   5,   1,   MAX, MAX},
 	{2,   0,   3,   2,   MAX, MAX},
